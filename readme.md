@@ -9,7 +9,7 @@
  - C, C#, PHP, Ruby on rails, python
  - Framework NodeJsExpress , Vue js , Yii Framwork, asp.net 5, donet core
  - Database Mysql, Sql Server, MongoDB, FirebaseDatabase
- - github repository https://github.com/EzCodeSolution,https://github.com/thanaha2525,https://github.com/kchaluntorn 
+ - github repository https://github.com/EzCodeSolution, https://github.com/thanaha2525, https://github.com/kchaluntorn 
  **Work Experience**
  
 |Year| Work  |
